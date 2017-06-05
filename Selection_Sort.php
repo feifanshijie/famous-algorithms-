@@ -16,7 +16,6 @@ function run(&$array)
             $k = $array[$i+1];
         }
     }
-
     return $k;
 }
 
